@@ -1,2 +1,2 @@
 # ring_buffer
-ring buffer 
+gcc RingBuffer.c -o RingBuffer
